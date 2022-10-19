@@ -1,12 +1,26 @@
 *{
   background: #16648A;
+  margin: 0;
 }
-
+a{
+  font-size: 2rem;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  color: darkturquoise;
+  background: #000;
+  text-decoration: none;
+}
+.nav-bar{
+  background: #000;
+  padding: 12px;
+}
  img{
     height:250px;
      width:450px;
   border: 2px solid snow;
   border-radius: 12px;
+    background-repeat: no-repeat;
+      background-attachment: fixed;
+      background-position: center;
  }
 footer {
   font-size: 2rem;
