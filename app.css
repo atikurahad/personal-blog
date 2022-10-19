@@ -2,6 +2,26 @@
   background: #16648A;
 }
 
+ img{
+    height:250px;
+     width:450px;
+  border: 2px solid snow;
+  border-radius: 12px;
+ }
 footer {
   font-size: 2rem;
+}
+h3{
+  color: yellow;
+  text-align: left;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+}
+/* article{
+  border: brown;
+} */
+p{
+  color: whitesmoke;
+  font-size: 1.5rem;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-style: oblique;
 }
